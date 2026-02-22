@@ -15,18 +15,6 @@
 
 ---
 
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-
-</div>
-
----
-
 ## 🚀 Core Technologies  
 
 <div align="center">
@@ -42,6 +30,9 @@
 
 <div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com?user=subhanshu-DEV&theme=tokyonight)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhanshu-DEV&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanshu-DEV&layout=compact&theme=tokyonight&cache_seconds=1800)
@@ -50,13 +41,17 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 📬 Connect With Me
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=subhanshu-DEV&theme=tokyonight)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhanshusingh504@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/subhanshu-singh-078263371/))
 
 </div>
+
+---
 
 ---
 
