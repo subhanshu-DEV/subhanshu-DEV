@@ -33,6 +33,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=subhanshu-DEV&theme=tokyonight)
 
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhanshu-DEV&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanshu-DEV&layout=compact&theme=tokyonight&cache_seconds=1800)
@@ -40,21 +41,26 @@
 </div>
 
 ---
-
-## 📬 Connect With Me
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhanshusingh504@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/subhanshu-singh-078263371/))
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanshu-DEV&theme=tokyo-night)
 
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-subhanshusingh504@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhanshusingh504@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhanshu%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhanshu-singh-078263371/)
+
+</div>
+
+
 ---
 
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=subhanshu-DEV&label=Profile%20Views&color=0e75b6&style=flat)
