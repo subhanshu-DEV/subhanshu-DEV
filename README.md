@@ -45,7 +45,7 @@
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanshu-DEV&theme=react-dark&hide_border=true&area=true)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanshu-DEV&theme=react-dark&hide_border=true&area=true)](https://github.com/subhanshu-DEV)
 
 </div>
 
