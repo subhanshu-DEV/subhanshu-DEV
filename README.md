@@ -44,8 +44,10 @@
 ## 📈 Contribution Graph
 
 <div align="center">
+## 🐍 Contribution Graph
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanshu-DEV&theme=react-dark&hide_border=true&area=true)](https://github.com/subhanshu-DEV)
+![GitHub Snake](./dist/github-snake.svg)
+
 
 </div>
 
