@@ -41,15 +41,7 @@
 </div>
 
 ---
-## 📈 Contribution Graph
 
-<div align="center">
-## 🐍 Contribution Graph
-
-![GitHub Snake](./dist/github-snake.svg)
-
-
-</div>
 
 ---
 
