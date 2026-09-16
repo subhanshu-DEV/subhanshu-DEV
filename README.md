@@ -36,7 +36,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhanshu-DEV&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanshu-DEV&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanshu-DEV&layout=compact&theme=tokyonight)
 
 </div>
 
