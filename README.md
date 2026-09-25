@@ -38,19 +38,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhanshu-DEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanshu-DEV&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhanshu-DEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-</div>
-
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanshu-DEV&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=subhanshu-DEV&theme=tokyonight&hide_border=true)
 
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanshu-DEV&theme=tokyo-night&hide_border=true&radius=10)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhanshu-DEV&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
 </div>
 
 ---
