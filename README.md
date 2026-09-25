@@ -34,9 +34,18 @@
 
 ---
 
+## 📊 GitHub Stats & Analytics
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=subhanshu-DEV&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=subhanshu-DEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanshu-DEV&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=subhanshu-DEV&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -47,9 +56,12 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-subhanshusingh504@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhanshusingh504@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhanshu%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhanshu-singh-078263371/)
 
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhanshu-DEV&color=brightgreen&style=flat-square" alt="Visitor Count" />
+</div>
